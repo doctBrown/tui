@@ -1,5 +1,5 @@
 # tui
-Simple library for creating old-school text user interface for interaction via uart or telnet (VT100 standard mostly).
+Simple library for creating old-school terminal based user interface for interaction via uart or telnet (VT100 standard mostly).
 
 # Features
 - as simple as can be;
