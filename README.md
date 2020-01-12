@@ -1,10 +1,11 @@
 # tui
-Simple old-school Text User Interface for interaction via uart or telnet (VT100 standard mostly).
+Simple library for creating old-school text user interface for interaction via uart or telnet (VT100 standard mostly).
 
 # Features
+- as simple as can be;
 - no dependencies;
 - object-oriented approach;
-- no OS needed; 
+- no OS needed.
 
 # Some Screens
 ![](img/tui_demo_0.png)
